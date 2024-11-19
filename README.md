@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Adryan Szenczuk
+# 🧑🏼‍💻 Adryan Szenczuk
 
 ### 🤖 Linguagens e Tecnologias
 
