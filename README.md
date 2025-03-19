@@ -78,7 +78,8 @@
     alt="GitHub Stats" 
     height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=adryanszencz&show_icons=true&theme=tokyonight&include_all_commits=false&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=adryanszencz&theme=dark&show_icons=true" 
+      
   />
 
 <img 
